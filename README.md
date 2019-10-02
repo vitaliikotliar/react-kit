@@ -5,3 +5,4 @@
 - Redux saga
 - Redux persist
 - SCSS
+- ESLint
